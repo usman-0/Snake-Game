@@ -9,6 +9,7 @@ features:
 - level based two game modes, wrap around and bordered walls
 - with increasing level, snake's speed increases
 - bonus food appearance
+- highscore track
 
   setup up your console screen with following instructions otherwise it wont work properly!
   1. Open console screen properties (right click on console screen window panel and click on properties)
